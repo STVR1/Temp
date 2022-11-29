@@ -50,59 +50,73 @@
         <h5 align="center"> <em>Скриншот 2. Граф 1.
         </em>
         </h5> 
+        <p>
         <img src="Send 2.png">
         <h5 align="center"> <em>Скриншот 3. На данном изображении показано задание графа 1 путём перечисления рёбер. 
         </em>
         </h5>
+        <p>
         <img src="Result1.png">
         <h5 align="center"> <em>Скриншот 4. Граф 1 cильно связный.
         </em>
         </h5> 
-        <img src="Graph 2.png"
+        <p>
+        <img src="Graph 2.png">
         <h5 align="center"> <em>Скриншот 5. Граф 2.
         </em>
         </h5> 
+        v
         <img src="Send 3.png"> 
         <h5 align="center"> <em>Скриншот 6. На данном изображении показано задание графа 2 путём перечисления рёбер. 
         </em>
         </h5>
+        <p>
         <img src="Result2.png">
         <h5 align="center"> <em>Скриншот 7. Граф 2 cильно связный.
         </em>
         </h5> 
+        <p>
         <img src="Graph 3.png"> 
         <h5 align="center"> <em>Скриншот 8. Граф 3.
         </em>
         </h5> 
+        <p>
         <img src="Send 4.png"> 
         <h5 align="center"> <em>Скриншот 9. На данном изображении показано задание графа 3 путём перечисления рёбер.
         </em>
         </h5> 
+        <p>
         <img src="Result3.png">
         <h5 align="center"> <em>Скриншот 10. Граф 3 не cильно связный, потому что не можем попасть во все вершины из вершин 1, 2 и 3.
         </em>
         </h5> 
+        <p>
         <img src="Graph 4.png">
         <h5 align="center"> <em>Скриншот 11. Граф 4.
         </em>
         </h5> 
+        <p>
         <img src="Send 5.png"> 
         <h5 align="center"> <em>Скриншот 12. На данном изображении показано задание графа 4 путём перечисления рёбер.
         </em>
         </h5> 
+        <p>
          <img src="Result4.png">
          <h5 align="center"> <em>Скриншот 13. Граф 4 не cильно связный, потому что ребро 4--2 неориентировано.
         </em>
         </h5> 
+        <p>
         <img src="Graph 5.png"> 
         <h5 align="center"> <em>Скриншот 14. Граф 5.
         </em>
         </h5> 
+        <p>
         <img src="Send 6.png"> 
         <h5 align="center"> <em>Скриншот 15. На данном изображении показано задание графа 5 путём перечисления рёбер. 
         </em>
         </h5>
         <h2>
+        <p>
         <img src="Result5.png">
         <h5 align="center"> <em>Скриншот 16. Граф 5 cильно связный.
         </em>
